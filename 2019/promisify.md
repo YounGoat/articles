@@ -61,3 +61,5 @@ Charged upon notorious [Callback Hell][5], tranditional asynchrous functions acc
 [3]: https://spin.atomicobject.com/2017/04/06/nodejs-promises-callbacks/
 [4]: http://callbackhell.com/
 [5]: https://en.wiktionary.org/wiki/callback_hell
+
+[版权声明](../LICENSE/zh_cn.md) | [LICENSE](../LICENSE/en_us.md)
