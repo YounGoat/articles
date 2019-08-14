@@ -144,10 +144,13 @@ Last Modified: *Feb 11th, 2019*
 
 ###	Integrated
 
+*	[deno][d.3]
+	*A bridge to Deno.*
+
 *	[yuanode][y.7]  
 	-- null -- 
 
-##	Resources 
+##	Resources
 
 *	[astee][a.0]  
 	*ECMAScript AST toolkit*
@@ -253,7 +256,6 @@ Last Modified: *Feb 11th, 2019*
 ##	Security Holding
 
 *	[chiang][c.11]
-*	[deno][d.3]
 *	[github-graphql][g.3]
 *	[gto][g.6]
 *	[rone][r.0]
