@@ -16,7 +16,7 @@ Last Modified: *Feb 11th, 2019*
 	* [Stream](#stream)
 	* [Text](#text)
 	* [Integrated](#integrated)
-* [Resources ](#resources-)
+* [Resources](#resources)
 * [Languages](#languages)
 * [Products Supporting Facilities](#products-supporting-facilities)
 	* [CEPH](#ceph)
@@ -149,6 +149,9 @@ Last Modified: *Feb 11th, 2019*
 
 ##	Resources 
 
+*	[astee][a.0]  
+	*ECMAScript AST toolkit*
+
 *	[badging][b.0]  
 	*Index of frequently used badges for NPM*
 
@@ -254,6 +257,10 @@ Last Modified: *Feb 11th, 2019*
 *	[github-graphql][g.3]
 *	[gto][g.6]
 *	[rone][r.0]
+
+-- THE END --
+
+[a.0]: https://www.npmjs.com/package/astee
 
 [b.0]: https://www.npmjs.com/package/badging
 
