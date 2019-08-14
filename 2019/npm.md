@@ -144,7 +144,7 @@ Last Modified: *Feb 11th, 2019*
 
 ###	Integrated
 
-*	[deno][d.3]
+*	[deno][d.3]  
 	*A bridge to Deno.*
 
 *	[yuanode][y.7]  
