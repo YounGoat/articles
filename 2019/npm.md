@@ -178,6 +178,11 @@ Last Modified: *Feb 11th, 2019*
 *	[codon][c.9]  
 	*JavaScript Code Assistant*
 
+##	Commands
+
+*	[antfin][a.1]  
+	*Manage Your Favorite Command Lines*
+
 ##	Products Supporting Facilities
 
 ###	CEPH
@@ -263,6 +268,7 @@ Last Modified: *Feb 11th, 2019*
 -- THE END --
 
 [a.0]: https://www.npmjs.com/package/astee
+[a.1]: https://www.npmjs.com/package/antfin
 
 [b.0]: https://www.npmjs.com/package/badging
 
