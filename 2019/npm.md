@@ -34,10 +34,11 @@ Last Modified: *Feb 11th, 2019*
 	*if2 A,B := if A then A else B*
 
 *	[noda][n.0]  
-	*NOde Developing Assistant*
+	*NOde Developing Assistant*  
 
 *	[shadowing][s.0]  
-	*Light-weighted object/array analyse tool.*
+	*Light-weighted object/array analyse tool.*  
+	轻量化的对象和数组分析工具
 
 *	[undertake][u.0]  
 	*Another choice beyond co.*
